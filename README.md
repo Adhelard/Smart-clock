@@ -17,7 +17,7 @@ The **Smart Clock** is an Arduino-based project that combines multiple functiona
 
 3. **Display Options**
    - **LCD (16x2)**: Displays time, calendar, and interaction prompts.
-   - **Matrix Dot Display (MAX7219)**: Displays animations, text, and real-time data dynamically.
+   - **Matrix Dot Display (P10)**: Displays animations, text, and real-time data dynamically.
 
 4. **Audio Integration**
    - Plays audio files such as alarms or recitations using the DFPlayer Mini module.
@@ -38,7 +38,7 @@ The **Smart Clock** is an Arduino-based project that combines multiple functiona
 - **LCD**: 16x2 I2C-based Liquid Crystal Display.
 - **RTC Module**: DS1302 Real-Time Clock module.
 - **DHT11 Sensor**: Temperature and humidity sensor.
-- **Matrix Dot Display**: MAX7219 for dynamic text and animations.
+- **Matrix Dot Display**: P10 for dynamic text and animations.
 - **Audio Player**: DFPlayer Mini for audio playback.
 - **Buzzer**: For alarms and notifications.
 - **PIR Sensor**: For motion detection.
