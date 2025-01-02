@@ -34,7 +34,7 @@ The **Smart Clock** is an Arduino-based project that combines multiple functiona
 ## Components
 
 ### Hardware
-- **Microcontroller**: Arduino Uno or compatible board.
+- **Microcontroller**: Arduino Mega or compatible board.
 - **LCD**: 16x2 I2C-based Liquid Crystal Display.
 - **RTC Module**: DS1302 Real-Time Clock module.
 - **DHT11 Sensor**: Temperature and humidity sensor.
@@ -82,6 +82,8 @@ The **Smart Clock** is an Arduino-based project that combines multiple functiona
    - **Weather Data**: Shows temperature and humidity on the display.
    - **Alarm**: Set alarms and get notified via the buzzer.
    - **Voice Commands**: Use voice commands to control features like switching modes or playing audio.
+  
+*this project is need a lot of power
 
 ---
 
